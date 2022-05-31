@@ -1,0 +1,17 @@
+05-30-2022 @ 15:50:47 - 3.1.0 - No subscription webhooks found using API version 3. No updates needed.
+05-30-2022 @ 15:50:47 - 3.1.6 upgrade complete from Subscriptions v0 while WooCommerce WC_VERSION 6.5.1 and database version 6.5.1 was active.
+05-30-2022 @ 15:50:47 - Environment info:
+05-30-2022 @ 15:50:47 -     WordPress Version : 6.0
+05-30-2022 @ 15:50:47 - Active Plugins:
+05-30-2022 @ 15:50:47 -     Starter Templates by Brainstorm Force – 3.1.10
+05-30-2022 @ 15:50:47 -     CartFlows by CartFlows Inc – 1.9.1
+05-30-2022 @ 15:50:47 -     Checkout Plugins - Stripe for WooCommerce by Checkout Plugins – 1.4.4
+05-30-2022 @ 15:50:47 -     GDPR Cookie Consent by WebToffee – 2.1.2
+05-30-2022 @ 15:50:47 -     Elementor by Elementor.com – 3.6.5
+05-30-2022 @ 15:50:47 -     GTranslate by Translate AI Multilingual Solutions – 2.9.12
+05-30-2022 @ 15:50:47 -     WooCommerce Cart Abandonment Recovery by CartFlows Inc – 1.2.17
+05-30-2022 @ 15:50:47 -     WooCommerce Stripe Gateway by WooCommerce – 6.4.0
+05-30-2022 @ 15:50:47 -     WooCommerce Payments by Automattic – 4.2.0
+05-30-2022 @ 15:50:47 -     WooCommerce by Automattic – 6.5.1
+05-30-2022 @ 15:50:47 -     Yoast SEO by Team Yoast – 18.9
+05-30-2022 @ 15:50:47 -     WPForms Lite by WPForms – 1.7.4.2
